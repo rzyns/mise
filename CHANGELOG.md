@@ -1,5 +1,11 @@
 # Changelog
 
+## [2024.8.13](https://github.com/jdx/mise/compare/v2024.8.12..v2024.8.13) - 2024-08-24
+
+### 🔍 Other Changes
+
+- make some gh workflows only run on jdx/mise by [@CharString](https://github.com/CharString) in [#2489](https://github.com/jdx/mise/pull/2489)
+
 ## [2024.8.12](https://github.com/jdx/mise/compare/v2024.8.11..v2024.8.12) - 2024-08-20
 
 ### 🐛 Bug Fixes
