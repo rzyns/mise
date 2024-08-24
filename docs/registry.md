@@ -224,6 +224,7 @@ editLink: false
 | flarectl | [asdf:mise-plugins/asdf-flarectl](https://github.com/mise-plugins/asdf-flarectl) |
 | flatc | [asdf:TheOpenDictionary/asdf-flatc](https://github.com/TheOpenDictionary/asdf-flatc) |
 | flutter | [asdf:oae/asdf-flutter](https://github.com/oae/asdf-flutter) |
+| fluttergen | [asdf:FlutterGen/asdf-fluttergen](https://github.com/FlutterGen/asdf-fluttergen) |
 | flux2 | [asdf:tablexi/asdf-flux2](https://github.com/tablexi/asdf-flux2) |
 | fluxctl | [asdf:stefansedich/asdf-fluxctl](https://github.com/stefansedich/asdf-fluxctl) |
 | fly | [asdf:vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf) |
@@ -245,7 +246,6 @@ editLink: false
 | ghorg | [asdf:gbloquel/asdf-ghorg](https://github.com/gbloquel/asdf-ghorg) |
 | ghq | [asdf:kajisha/asdf-ghq](https://github.com/kajisha/asdf-ghq) |
 | ginkgo | [asdf:jimmidyson/asdf-ginkgo](https://github.com/jimmidyson/asdf-ginkgo) |
-| git | [asdf:https://gitlab.com/jcaigitlab/asdf-git.git](https://gitlab.com/jcaigitlab/asdf-git) |
 | git-chglog | [asdf:GoodwayGroup/asdf-git-chglog](https://github.com/GoodwayGroup/asdf-git-chglog) |
 | git-cliff | [asdf:jylenhof/asdf-git-cliff](https://github.com/jylenhof/asdf-git-cliff) |
 | gitconfig | [asdf:0ghny/asdf-gitconfig](https://github.com/0ghny/asdf-gitconfig) |
